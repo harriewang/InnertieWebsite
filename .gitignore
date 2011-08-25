@@ -1,0 +1,12 @@
+*.buildpath
+*.settings/*
+*.bak
+*.project
+.#*
+.buildpath
+.project
+.settings
+build/iphone/*
+build/android/*
+build.log
+config.php
